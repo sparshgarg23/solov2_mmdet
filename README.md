@@ -14,6 +14,6 @@
 
 # solov2 Results
 <div align="center">
-<img src="images_test/demo_out_4.jpg" width="960">
+<img src="Images_test/demo_out_4.jpg" width="960">
 </div>
 
